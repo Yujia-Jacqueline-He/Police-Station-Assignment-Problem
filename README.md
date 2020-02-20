@@ -1,0 +1,2 @@
+# Police-Station-Assignment-Problem
+Police has a strong power to solve the traffic services and protect the safety of city. So it is necessary to utilize their capacity which is about setting some police service stations to benefit people. However, the resource of police is limit, we need to set some station points and arrange the corresponding area to maximize their power according to the real situation of this city and the demand nearby. In this project, we are aim to solve this kind of problem.
